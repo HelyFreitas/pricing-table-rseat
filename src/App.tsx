@@ -70,7 +70,7 @@ function App() {
         <div className="first-card">
           <h1 className="title-card1">Profissional</h1>
           <p className="price">
-            R$ 0,<span className="span1">00</span>
+            R$ 99,<span className="span1">00</span>
             <span className="span2"> /mês</span>
           </p>
           <p className="paragraph-card">
