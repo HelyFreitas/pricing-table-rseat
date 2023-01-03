@@ -294,8 +294,9 @@ header {
 }
 
 .btn-card2 {
-  border: 1px solid #1d539e;
+  /* border: 1px solid #1d539e; */
   border-radius: 10px;
+  background-color: #1d539e;
 
   padding: 06px 20px;
   margin: 0 30px;
